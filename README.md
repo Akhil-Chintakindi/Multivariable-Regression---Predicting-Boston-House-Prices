@@ -4,5 +4,5 @@ In this project I have:
   2. Split the data for training and testing
   3. Ran a Multivariable Regression
   4. Evaluated the model's coefficients and residuals
-  5. Used data transformation to improve your model performance
+  5. Used data transformation to improve the model's performance
   6. Used the right model to estimate a property price
